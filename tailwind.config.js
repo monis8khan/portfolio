@@ -10,6 +10,7 @@ module.exports = {
                     base: 'var(--color-text-base)',
                     muted: 'var(--color-text-muted)',
                     inverted: 'var(--color-text-inverted)',
+                    red: 'var(--color-button-accent)'
                 }
             },
             backgroundColor: {
